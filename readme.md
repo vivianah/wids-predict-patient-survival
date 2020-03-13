@@ -7,13 +7,13 @@ This is the repository for the final project for the MSCA Data Mining Course whe
 
 This project requires Python 3.7 and the following Python libraries installed:
 
-*NumPy 1.16.5
-*Pandas 1.3.1
-*matplotlib 3.1.1
-*scikit-learn 0.22
-*seaborn
-*lightgbm
-*imblearn
+* NumPy 1.16.5
+* Pandas 1.3.1
+* matplotlib 3.1.1
+* scikit-learn 0.22
+* seaborn
+* lightgbm
+* imblearn
 
 
 ## Running the Code
