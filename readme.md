@@ -20,22 +20,22 @@ This project requires Python 3.7 and the following Python libraries installed:
 
 All our finalized notebooks are in the "notebooks/Finalized" folder. Please run the jupyter notebook in the order of step numbers in title. 
 
-1. Run __Step1_WIDS+EDA.ipynb__
+1. Run __Step1_WIDS+EDA.ipynb__ - 
    This is our EDA process.
 
-2. Run __Step2_WIDS_Feature_Engineer_0309.ipynb__
+2. Run __Step2_WIDS_Feature_Engineer_0309.ipynb__ - 
    We created additional features.
 
-3. Run __Step3_lightgbm_baselinemodels.ipynb__
+3. Run __Step3_lightgbm_baselinemodels.ipynb__ - 
    We built a basedline model by only using the raw and unimputed dataset.
 
-4. Run __Step4_Model_Iterations.ipynb__
+4. Run __Step4_Model_Iterations.ipynb__ - 
    We ran three models plus resampling methods on our imputed dataset.
 
-5. Run __Step5_LGB_U_Hyperpara_Tuning.ipynb__
+5. Run __Step5_LGB_U_Hyperpara_Tuning.ipynb__ - 
    We tuned hyperparameters of our finalized model.
 
-6. Run __Step6_Probability Calibration.ipynb__
+6. Run __Step6_Probability Calibration.ipynb__ - 
    We tried calibrating our probability threshold.
 
 ## Data
