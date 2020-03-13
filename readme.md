@@ -47,4 +47,4 @@ The original data can be found in "data" folder. This includes the following fil
     
 2. __icu-apache-codes.csv__ : Map to match APACHE III diagnosis codes with their parent chronic condition.
 
-3. __unlabeled.csv__ : The holdout unlabelled data used to predict survival
+3. __unlabeled.csv__ : The holdout unlabeled data used to predict survival
