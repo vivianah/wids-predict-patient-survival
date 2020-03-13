@@ -33,7 +33,7 @@ All our finalized notebooks are in the "notebooks/Finalized" folder. Please run 
    We ran three models plus resampling methods on our imputed dataset.
 
 5. Run __Step5_LGB_U_Hyperpara_Tuning.ipynb__ - 
-   We tuned hyperparameters of our finalized model.
+   We tuned hyperparameters of our finalized model. NOTE: Please DO NOT RUN the notebook beginning at the "Submit to Kaggle" portion as that is only for the purposes of our own validation. Thanks!
 
 6. Run __Step6_Probability Calibration.ipynb__ - 
    We tried calibrating our probability threshold.
