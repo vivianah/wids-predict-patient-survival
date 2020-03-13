@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Prediction Patient Survival in the Intensive Care Unit (ICU)
 
 This is the repository for the final project for the MSCA Data Mining Course where we use patient information to predict their dealth probability in the first 24 hours at the ICU.
@@ -21,22 +20,22 @@ This project requires Python 3.7 and the following Python libraries installed:
 
 All our finalized notebooks are in the "Finalized" folder. Please run the jupyter notebook in the order of step numbers in title. 
 
-1. Run Step1_WIDS+EDA.ipynb
+1. Run __Step1_WIDS+EDA.ipynb__
    This is our EDA process.
 
-2. Run Step2_WIDS_Feature_Engineer_0309.ipynb
+2. Run __Step2_WIDS_Feature_Engineer_0309.ipynb__
    We created additional features.
 
-3. Run Step3_lightgbm_baselinemodels.ipynb
+3. Run __Step3_lightgbm_baselinemodels.ipynb__
    We built a basedline model by only using the raw and unimputed dataset.
 
-4. Step4_Model_Iterations.ipynb
+4. Run __Step4_Model_Iterations.ipynb__
    We ran three models plus resampling methods on our imputed dataset.
 
-5. Step5_LGB_U_Hyperpara_Tuning.ipynb
+5. Run __Step5_LGB_U_Hyperpara_Tuning.ipynb__
    We tuned hyperparameters of our finalized model.
 
-6. Step6_Probability Calibration.ipynb
+6. Run __Step6_Probability Calibration.ipynb__
    We tried calibrating our probability threshold.
 
 ## Data
