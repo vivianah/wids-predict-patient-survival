@@ -18,7 +18,7 @@ This project requires Python 3.7 and the following Python libraries installed:
 
 ## Running the Code
 
-All our finalized notebooks are in the "notebook/Finalized" folder. Please run the jupyter notebook in the order of step numbers in title. 
+All our finalized notebooks are in the "notebooks/Finalized" folder. Please run the jupyter notebook in the order of step numbers in title. 
 
 1. Run __Step1_WIDS+EDA.ipynb__
    This is our EDA process.
