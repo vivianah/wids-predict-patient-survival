@@ -18,7 +18,7 @@ This project requires Python 3.7 and the following Python libraries installed:
 
 ## Running the Code
 
-All our finalized notebooks are in the "Finalized" folder. Please run the jupyter notebook in the order of step numbers in title. 
+All our finalized notebooks are in the "notebook/Finalized" folder. Please run the jupyter notebook in the order of step numbers in title. 
 
 1. Run __Step1_WIDS+EDA.ipynb__
    This is our EDA process.
@@ -40,7 +40,7 @@ All our finalized notebooks are in the "Finalized" folder. Please run the jupyte
 
 ## Data
 
-The original data can be found in "Data" folder. This includes the following files:
+The original data can be found in "data" folder. This includes the following files:
 
 1. __trainingv2.csv__ : Our training data with 91,713 oberservations and 185 features. 
     The target variable "hospital_death" is a binary variable where 1 indicates death and 0 indicates survival.
