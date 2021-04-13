@@ -1,6 +1,6 @@
 # Prediction Patient Survival in the Intensive Care Unit (ICU)
 
-This is the repository for the final project for the MSCA Data Mining Course where we use patient information to predict their dealth probability in the first 24 hours at the ICU.
+This is the repository for the WIDS 2020 Kaggle competition where we use patient information to predict their dealth probability in the first 24 hours at the ICU.
 
 
 ## Getting Started
